@@ -1,0 +1,150 @@
+<html>
+
+<center>
+<nav style="font-family:'Comic Sans MS';color:white">
+  <ul>
+    <a href="MCU_Home.html" style="color:white">Home</a>
+    <a href="About.html" style="color:white">About</a>
+    <a href="Phase1.html" style="color:white">Phase 1</a>
+    <a href="Phase2.html" style="color:white">Phase 2</a>
+    <a href="Phase3.html" style="color:white">Phase 3</a>
+    <a href="Phase4.html" style="color:white">Phase 4</a>
+    <a href="index.html" style="color:white">User Info</a>
+  </ul>
+</nav>
+
+<head>
+<h1 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Marvel Cinematic Universe</h1>
+
+<script>
+function clickCounter() {
+  if (typeof(Storage) !== "undefined") {
+    if (localStorage.clickcount) {
+      localStorage.clickcount = Number(localStorage.clickcount)+1;
+    } else {
+      localStorage.clickcount = 1;
+    }
+    document.getElementById("result").innerHTML = "You have clicked the button " + localStorage.clickcount + " time(s).";
+  } else {
+    document.getElementById("result").innerHTML = "Sorry, your browser does not support web storage...";
+  }
+}
+</script>
+
+<title>
+</title>
+</head>
+<body style="background-color:maroon;">
+<p>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Phase 3</h3>
+
+<p style="font-family:'Comic Sans MS';color:white">
+The page for comic books that are related to Phase 3 of the Marvel Cinematic Universe!
+</p>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Click Counter</h3>
+<div style="font-family:'Comic Sans MS';color:white" id="result"></div>
+
+<p>
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Captain America: Civil War:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Based on the Civil War series
+<div><img src="CACW.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="CACWMP.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.amazon.com/Marvel-Studios-Captain-America-Civil/dp/B07Q4FGQ9Y/ref=sr_1_1?crid=24NG327N6EEFL&keywords=captain+america+civil+war&qid=1638115032&s=instant-video&sprefix=capta%2Cinstant-video%2C278&sr=1-1');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Doctor Strange:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Based on Strange Tales #110
+<div><img src="DS1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="DS.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.amazon.com/Doctor-Strange-Theatrical-Benedict-Cumberbatch/dp/B01M6BGT0G/ref=sr_1_2?crid=3HG35AH2IO7U6&keywords=doctor+strange&qid=1638115058&s=instant-video&sprefix=doctor+stra%2Cinstant-video%2C-1&sr=1-2');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Guardians of the Galaxy: Vol. 2:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Elements from Mighty Thor #132
+<div><img src="GOTG2C.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="GOTG2.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.amazon.com/Marvel-Studios-Guardians-Galaxy-Vol/dp/B07N6PB736/ref=sr_1_2?crid=3UE9AA6FP4JRB&keywords=guardians+of+the+galaxy+2&qid=1638115076&s=instant-video&sprefix=guardia%2Cinstant-video%2C259&sr=1-2');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Spider-Man: Homecoming:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Elements from Spidey #6
+<div><img src="SH1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="SH.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.amazon.com/Spider-Man-Homecoming-Robert-Downey-Jr/dp/B075VJWVGY/ref=sr_1_2?crid=1BNP0L4YLEG3T&keywords=spiderman+homecoming&qid=1638115093&s=instant-video&sprefix=spiderman%2Cinstant-video%2C229&sr=1-2');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Thor: Ragnarok:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Elements from Planet Hulk (2006)
+<div><img src="TR1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="TR.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.amazon.com/Thor-Ragnarok-Test-Chris-Hemsworth/dp/B079VSLD2L/ref=sr_1_2?crid=20RTKSWQNR93D&keywords=thor+ragnarok&qid=1638115115&s=instant-video&sprefix=thor+ra%2Cinstant-video%2C241&sr=1-2');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Black Panther:</h3>
+<center style="font-family:'Comic Sans MS';color:white">First Appearance in Fantastic Four #52
+<div><img src="BP1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="BP.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.amazon.com/Black-Panther-UHD-Chadwick-Boseman/dp/B07CSKDGFF/ref=sr_1_1?keywords=black+panther&qid=1638115139&s=instant-video&sr=1-1');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Avengers: Infinity War:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Based on The Infinity Gauntlet
+<div><img src="AIW1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="AIW.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.amazon.com/Marvels-Avengers-Infinity-War-UHD/dp/B07FYXNDGN/ref=sr_1_3?crid=3B573FEBURQ4U&keywords=avengers+infinity+war&qid=1638115158&s=instant-video&sprefix=avengers+infini%2Cinstant-video%2C236&sr=1-3');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Ant-Man and the Wasp:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Elements from Avengers Origins
+<div><img src="AMATW1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="AMATW.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.amazon.com/Ant-Man-Wasp-UHD-Paul-Rudd/dp/B07HNJZ8QG/ref=sr_1_3?crid=1PJD7ZLNZ7YNU&keywords=antman+and+the+wasp&qid=1638115176&s=instant-video&sprefix=antman+and%2Cinstant-video%2C252&sr=1-3');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Captain Marvel:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Elements from Whiz Comics No. 2
+<div><img src="CM1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="CM.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.amazon.com/Marvel-Studios-Captain-4K-UHD/dp/B07SBFCJMB/ref=sr_1_2?crid=3AZJ76HZYR3XA&keywords=captain+marvel&qid=1638115196&s=instant-video&sprefix=captain+ma%2Cinstant-video%2C231&sr=1-2');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Avengers: Endgame:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Based on The Infinity Gauntlet
+<div><img src="AIW1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="AE.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.amazon.com/Marvel-Studios-Avengers-Endgame-UHD/dp/B07VBB6WLL/ref=sr_1_2?crid=1T06UUTBQM11S&keywords=avengers+endgame&qid=1638115212&s=instant-video&sprefix=avengers+end%2Cinstant-video%2C225&sr=1-2');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Spider-Man: Far From Home:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Elements from The Amazing Spiderman
+<div><img src="SFFH1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="SFFH.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.amazon.com/Spider-Man-Far-Home-4K-UHD/dp/B07TM1R5VZ/ref=sr_1_2?crid=3M0FXSID3YZBU&keywords=spiderman+far+from+home&qid=1638115226&s=instant-video&sprefix=spiderman+far%2Cinstant-video%2C230&sr=1-2');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+</p>
+
+
+<br> 
+
+<center>
+
+</center>
+</body>
+</html>
+
+
+
