@@ -1,0 +1,114 @@
+<html>
+
+<center>
+<nav style="font-family:'Comic Sans MS';color:white">
+  <ul>
+    <a href="MCU_Home.html" style="color:white">Home</a>
+    <a href="About.html" style="color:white">About</a>
+    <a href="Phase1.html" style="color:white">Phase 1</a>
+    <a href="Phase2.html" style="color:white">Phase 2</a>
+    <a href="Phase3.html" style="color:white">Phase 3</a>
+    <a href="Phase4.html" style="color:white">Phase 4</a>
+    <a href="index.html" style="color:white">User Info</a>
+  </ul>
+</nav>
+
+<head>
+<h1 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Marvel Cinematic Universe</h1>
+
+<script>
+function clickCounter() {
+  if (typeof(Storage) !== "undefined") {
+    if (localStorage.clickcount) {
+      localStorage.clickcount = Number(localStorage.clickcount)+1;
+    } else {
+      localStorage.clickcount = 1;
+    }
+    document.getElementById("result").innerHTML = "You have clicked the button " + localStorage.clickcount + " time(s).";
+  } else {
+    document.getElementById("result").innerHTML = "Sorry, your browser does not support web storage...";
+  }
+}
+</script> <!w3 schools>
+
+<title>
+</title>
+</head>
+<body style="background-color:maroon;">
+<p>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Phase 4</h3>
+
+<p style="font-family:'Comic Sans MS';color:white">
+The page for comic books that are related to Phase 4 of the Marvel Cinematic Universe!
+</p>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Click Counter</h3>
+<div style="font-family:'Comic Sans MS';color:white" id="result"></div>
+
+<p>
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">WandaVision:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Adapted and Elements from House of M
+<div><img src="WV1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="WV.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.disneyplus.com/series/wandavision/4SrN28ZjDLwH?cid=DTCI-Synergy-Disneycom-Site-Awareness-Originals-US-Marvel-WandaVision-EN-NavPipe-StreamNow_WandaVision_show_page-NA');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">The Falcon and the Winter Soldier:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Adapted from the All-New Captain America series
+<div><img src="TFATWS1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="TFATWS.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.disneyplus.com/series/the-falcon-and-the-winter-soldier/4gglDBMx8icA?cid=DTCI-Synergy-Disneycom-Site-Awareness-Originals-US-Marvel-FalconandWinterSoldier-EN-NavPipe-StreamNow_The_Falcon_and_the_Winter_Soldier_show_page-NA');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Black Widow:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Elements from Tales of Suspense
+<div><img src="BW1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="BW.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.amazon.com/Black-Widow-UHD-Scarlett-Johansson/dp/B09BS831JQ/ref=sr_1_2?keywords=black+widow&qid=1638412043&s=instant-video&sr=1-2');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Loki:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Elements from Dark Reign
+<div><img src="L1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="L.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.disneyplus.com/series/loki/6pARMvILBGzF?cid=DTCI-Synergy-Disneycom-Site-Awareness-Originals-US-Marvel-Loki-EN-NavPipe-StreamNow_Loki_show_page-NA');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Shang-Chi and the Legend of the Ten Rings:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Adapted and Elements from Master of Kung Fu
+<div><img src="SC1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="SC.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.amazon.com/Shang-Chi-Legend-Ten-Rings-UHD/dp/B09LKGZ943/ref=sr_1_1?keywords=shang+chi&qid=1638412098&s=instant-video&sr=1-1');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">What If...?:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Adapted and Elements from the What If...? series
+<div><img src="WI1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="WI.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.disneyplus.com/series/what-if/7672ZVj1ZxU9?cid=DTCI-Synergy-Disneycom-Site-Awareness-Originals-US-Marvel-WhatIf-EN-NavPipe-StreamNow_What_If_show_page-NA');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+
+<h3 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Hawkeye:</h3>
+<center style="font-family:'Comic Sans MS';color:white">Adapted and Elements from the Hawkeye series (2015)
+<div><img src="H1.jpg" alt="Trulli" width="254" height="333"></div><br>
+<div><img src="H.jpg" alt="Trulli" width="254" height="333"><br>
+<input type="button" value="Click Here To Buy Movie" onclick=" window.open('https://www.disneyplus.com/series/hawkeye/11Zy8m9Dkj5l');clickCounter()">
+</input></div><br>
+<div id="result"></div></center>
+</p>
+
+<br> 
+
+<center>
+
+</center>
+</body>
+</html>
+
