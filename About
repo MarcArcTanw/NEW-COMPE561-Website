@@ -1,0 +1,62 @@
+<html>
+
+<center>
+
+<nav style="font-family:'Comic Sans MS';color:white">
+  <ul>
+    <a href="MCU_Home.html" style="color:white">Home</a>
+    <a href="About.html" style="color:white">About</a>
+    <a href="Phase1.html" style="color:white">Phase 1</a>
+    <a href="Phase2.html" style="color:white">Phase 2</a>
+    <a href="Phase3.html" style="color:white">Phase 3</a>
+    <a href="Phase4.html" style="color:white">Phase 4</a>
+    <a href="index.html" style="color:white">User Info</a>
+  </ul>
+</nav>
+
+<head>
+<h1 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">About the Marvel Cinematic Universe</h1>
+<title>
+</title>
+</head>
+<body style="background-color:maroon;">
+<p>
+
+<center><p style="font-family:'Comic Sans MS';color:white">
+The Marvel Cinematic Universe was first started with the release of Iron Man starring <br>
+Robert Downey Jr. in 2009 and till this day is one of the most successful and exciting <br>
+media franchise that consists of three phases that is then turned into one saga called <br>
+the Infinity Saga.</center><br>
+
+<img src="InfinitySaga.jpg" alt="DNE" width="664" height="366">
+<footer style="font-family:'Comic Sans MS';color:white">The Infinity Saga</footer>
+
+<center><br><p style="font-family:'Comic Sans MS';color:white">
+Within the Infinity Saga, it consists of 23 movies that comprises of <br>
+overarching storytelling that leads into one huge event at the end of the saga. <br>
+Shown below is a representation of each movie's earnings made globally and how they <br>
+compare to each other based on what phase they are in.
+</center><br>
+
+<img src="MCUGrossingDashboard.png" alt="Trulli" width="554" height="445">
+<footer style="font-family:'Comic Sans MS';color:white">Marvel Cinematic Universe Movie Grossing Through Each Phase</footer>
+
+<center><br><p style="font-family:'Comic Sans MS';color:white">
+With the Infinity Saga, it was the only beginning with the Marvel Cinematic Universe <br>
+in that they are currently in the process of releasing and developing Phase 4 of the MCU <br>
+that consists of films and television series.
+</center><br>
+
+<img src="MCUP4.jpg" alt="DNE" width="554" height="555">
+<footer style="font-family:'Comic Sans MS';color:white">Phase 4 of the Marvel Cinematic Universe</footer>
+
+</p>
+<br> 
+
+
+</style>
+</center>
+</body>
+</html>
+
+
