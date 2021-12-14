@@ -1,0 +1,41 @@
+<html>
+
+<center>
+<nav style="font-family:'Comic Sans MS';color:white">
+  <ul>
+    <a href="MCU_Home.html" style="color:white">Home</a>
+    <a href="About.html" style="color:white">About</a>
+    <a href="Phase1.html" style="color:white">Phase 1</a>
+    <a href="Phase2.html" style="color:white">Phase 2</a>
+    <a href="Phase3.html" style="color:white">Phase 3</a>
+    <a href="Phase4.html" style="color:white">Phase 4</a>
+    <a href="index.html" style="color:white">User Info</a>
+  </ul>
+</nav>
+
+<head>
+<h1 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">User Information for the Marvel Cinematic Universe</h1>
+
+<title>
+</title>
+</head>
+<body style="background-color:maroon;">
+<p style="font-family:'Comic Sans MS';color:white">
+
+Congratulations, you have now saved your information!<br><br>
+<IMG SRC="FB.gif">
+
+</p>
+
+<br> 
+
+<center>
+<footer>
+ <small style="font-family:'Comic Sans MS';color:white"> 
+ 	COMPE561: Marc Tanwangco, Jomari Paguia, Erick Tang
+ </small> 
+</footer> 
+</center>
+</body>
+</html>
+
