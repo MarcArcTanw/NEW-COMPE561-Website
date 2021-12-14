@@ -1,0 +1,126 @@
+<html>
+
+<center>
+
+<nav style="font-family:'Comic Sans MS';color:white">
+  <ul>
+    <a href="MCU_Home.html" style="color:white">Home</a>
+    <a href="About.html" style="color:white">About</a>
+    <a href="Phase1.html" style="color:white">Phase 1</a>
+    <a href="Phase2.html" style="color:white">Phase 2</a>
+    <a href="Phase3.html" style="color:white">Phase 3</a>
+    <a href="Phase4.html" style="color:white">Phase 4</a>
+    <a href="index.html" style="color:white">User Info</a>
+  </ul>
+</nav>
+
+<head>
+<h1 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">User Information for the Marvel Cinematic Universe</h1>
+<title>
+</title>
+</head>
+<body style="background-color:maroon;">
+<style> 
+input[type=submit]{
+  background-color: white;
+  border: none;
+  color: darkred;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+input {
+  width: 50%;
+  text-align: center;
+}
+div1 {
+  border-radius: 5px;
+  background-color: darkred;
+  padding: 20px;
+}
+</style>
+<p>
+
+<center><p style="color:white">
+
+<div>
+<img src="MCUB.jpg" alt="Trulli" width="604" height="333">
+</div><br>
+
+<h1 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">User Information</h1>
+<p style="font-family:'Comic Sans MS';color:white">Please Enter Your Information Below: </p></p>
+
+<div class="form">
+    <form method="POST" action="form.php">
+        <table style="font-family:'Comic Sans MS';color:white"><center>
+            <tr>
+                <td>
+                    <label for="fname">First name:</label><br>
+  			    <input type="text" id="fname" name="fname" value=""><br><br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="lname">Last name:</label><br>
+  			    <input type="text" id="lname" name="lname" value=""><br><br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="address1">Address 1:</label><br>
+  			    <input type="text" id="address1" name="address1" value=""><br><br>
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="address2">Address 2:</label><br>
+  			    <input type="text" id="address2" name="address2" value=""><br><br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="state">State:</label><br>
+  			    <input type="text" id="state" name="state" value=""><br><br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="zip">Zip Code:</label><br>
+  			    <input type="text" id="zip" name="zip" value=""><br><br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="favMCU">Favorite MCU Film:</label><br>
+  			    <input type="text" id="favMCU" name="favMCU" value=""><br><br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" name="submit" value="Submit" onclick="window.location.href='Success.html'">
+                </td>
+            </tr>
+        </table></center>
+    </form>
+</div>
+<! w3schools test>
+
+</p>
+<br> 
+
+<footer>
+ <small style="color:white"> 
+ 	COMPE561: Marc Tanwangco, Jomari Paguia, Erick Tang
+ </small> 
+</footer> 
+
+</style>
+</center>
+</body>
+</html>
+
+
+
+
