@@ -1,0 +1,45 @@
+<html>
+
+<center>
+
+<nav style="font-family:'Comic Sans MS';color:white">
+  <ul>
+    <a href="MCU_Home.html" style="color:white">Home</a>
+    <a href="About.html" style="color:white">About</a>
+    <a href="Phase1.html" style="color:white">Phase 1</a>
+    <a href="Phase2.html" style="color:white">Phase 2</a>
+    <a href="Phase3.html" style="color:white">Phase 3</a>
+    <a href="Phase4.html" style="color:white">Phase 4</a>
+    <a href="index.html" style="color:white">User Info</a>
+  </ul>
+</nav>
+
+<head>
+<h1 style="font-family:'Comic Sans MS';color:white;text-decoration:underline">Marvel Cinematic Universe</h1>
+<title>
+</title>
+</head>
+<body style="background-color:maroon;">
+<p style="font-family:'Comic Sans MS';color:white">
+
+<h3 style="font-family:'Comic Sans MS';color:white">The Place Where You Could Buy Comic Books and Movies<br>
+of Your Most Favorite MCU Films!</h3>
+
+<p style="font-family:'Comic Sans MS';color:white">
+Welcome to the home page for all things comics and movies that are connected to the MCU! <br>
+This is the one stop place to view any comic books and/or purchase movies that are connected <br>
+to the Marvel Cinematic Universe. <br>
+</p></p>
+
+<div>
+<img src="MCU.jpg" alt="Trulli" width="554" height="333">
+</div>
+
+<br> 
+
+
+</style>
+</center>
+</body>
+</html>
+
